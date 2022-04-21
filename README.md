@@ -1,2 +1,2 @@
 # LeetCode
-# My own solution and thoughts
+My own solution and thoughts
